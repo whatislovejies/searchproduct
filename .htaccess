@@ -1,0 +1,2 @@
+ReWriteEngine on
+ReWriteRule ^(.*)$ public/$1

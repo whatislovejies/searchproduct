@@ -1,0 +1,95 @@
+{
+    "subcategory": "Фотоаппараты",
+    "shop":"Mvideo",
+    "items": [
+        {
+            "productId": "400170234",
+            "productName": "Фотоаппарат компактный Kodak AZ401 Black",
+            "characteristics": [
+                {
+                    "propertyId": 5552,
+                    "propertyName": "Гарантия",
+                    "propertyValue": "1 год"
+                },
+                {
+                    "propertyId": 619438,
+                    "propertyName": "Разрешение матрицы",
+                    "propertyValue": "16.44"
+                },
+                {
+                    "propertyId": 995,
+                    "propertyName": "Оптический зум",
+                    "propertyValue": "40x"
+                },
+                {
+                    "propertyId": 310,
+                    "propertyName": "Размер матрицы",
+                    "propertyValue": "1\/2.3\""
+                },
+                {
+                    "propertyId": 362,
+                    "propertyName": "Фокусное расстояние",
+                    "propertyValue": "50 - 200 мм"
+                }
+            ],
+            "basePrice": 34999,
+            "salePrice": 34999
+        },
+        {
+            "productId": "400156616",
+            "productName": "Фотоаппарат компактный Kodak WPZ2 Yellow",
+            "characteristics": [
+                {
+                    "propertyId": 5552,
+                    "propertyName": "Гарантия",
+                    "propertyValue": "1 год"
+                },
+                {
+                    "propertyId": 619438,
+                    "propertyName": "Разрешение матрицы",
+                    "propertyValue": "16.76"
+                },
+                {
+                    "propertyId": 995,
+                    "propertyName": "Оптический зум",
+                    "propertyValue": "4x"
+                },
+                {
+                    "propertyId": 310,
+                    "propertyName": "Размер матрицы",
+                    "propertyValue": "1\/2.3\""
+                },
+                {
+                    "propertyId": 362,
+                    "propertyName": "Фокусное расстояние",
+                    "propertyValue": "4.9 - 19.6"
+                }
+            ],
+            "basePrice": 27999,
+            "salePrice": 27999
+        },
+        {
+            "productId": "10028305",
+            "productName": "Фотоаппарат детский Rekam iLook K430i Blue",
+            "characteristics": [
+                {
+                    "propertyId": 5552,
+                    "propertyName": "Гарантия",
+                    "propertyValue": "1 год"
+                },
+                {
+                    "propertyId": 304,
+                    "propertyName": "Качество видеосъемки",
+                    "propertyValue": "HD (1280x720 Пикс)"
+                },
+                {
+                    "propertyId": 309,
+                    "propertyName": "Тип матрицы",
+                    "propertyValue": "IPS"
+                }
+            ],
+            "basePrice": 1899,
+            "salePrice": 1899
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+/* pagination.css */
+@import url('https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css');
+
+/* Дополнительные стили для пагинации */
+.pagination {
+    display: flex;
+    justify-content: space-between; /* Равномерное распределение по ширине контейнера */
+    align-items: center; /* Выравнивание по центру вертикали */
+    margin-top: 20px;
+}
+
+.pagination .page-info {
+    color: #333; /* Цвет текста */
+}
+
+.pagination .page-link {
+    padding: 8px 12px;
+    margin: 0 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: #333;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.pagination .page-link:hover {
+    background-color: #eee;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+}
+
+.pagination .page-item.disabled .page-link {
+    color: #868e96;
+    pointer-events: none;
+    cursor: not-allowed;
+}
